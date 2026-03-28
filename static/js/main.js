@@ -2,6 +2,14 @@
 //  SS Tech — Catálogo JS
 // =====================
 
+// ----- SAUDAÇÃO -----
+function saudacao() {
+  const hora = new Date().getHours();
+  if (hora >= 5 && hora < 12) return 'Bom dia';
+  if (hora >= 12 && hora < 18) return 'Boa tarde';
+  return 'Boa noite';
+}
+
 // ----- FILTROS -----
 document.querySelectorAll('.filtro-btn').forEach(btn => {
   btn.addEventListener('click', () => {
@@ -41,6 +49,11 @@ async function abrirModal(id) {
       li.textContent = d;
       lista.appendChild(li);
     });
+
+    // Mensagem pré-definida no WhatsApp
+    const mensagem = `${saudacao()}, estou interessado no item ${p.nome} - R$ ${p.preco.toFixed(2).replace('.', ',')}`;
+    const linkWhats = `https://wa.me/5577998073775?text=${encodeURIComponent(mensagem)}`;
+    document.querySelector('.btn-whatsapp').href = linkWhats;
 
     document.getElementById('modal-overlay').classList.add('open');
     document.body.style.overflow = 'hidden';
