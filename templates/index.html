@@ -24,6 +24,7 @@
   <!-- FILTROS -->
   <section class="filtros-section">
     <div class="container">
+       <input type="text" id="busca" placeholder="🔍 Buscar produto..." autocomplete="off"/>
       <button class="filtro-btn active" data-categoria="todos">Todos</button>
       {% for cat in categorias %}
       <button class="filtro-btn" data-categoria="{{ cat }}">{{ cat }}</button>

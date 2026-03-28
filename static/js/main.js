@@ -71,3 +71,25 @@ function fecharModal() {
 document.addEventListener('keydown', e => {
   if (e.key === 'Escape') fecharModal();
 });
+// ----- BUSCA EM TEMPO REAL -----
+document.getElementById('busca').addEventListener('input', function() {
+  const termo = this.value.toLowerCase().trim();
+
+  document.querySelectorAll('.card').forEach(card => {
+    const nome = card.querySelector('.card-nome').textContent.toLowerCase();
+    const cat = card.querySelector('.card-cat').textContent.toLowerCase();
+
+    if (nome.includes(termo) || cat.includes(termo)) {
+      card.classList.remove('oculto');
+    } else {
+      card.classList.add('oculto');
+    }
+  });
+
+  // Reseta filtro de categoria ao buscar
+  if (termo.length > 0) {
+    document.querySelectorAll('.filtro-btn').forEach(b => b.classList.remove('active'));
+  } else {
+    document.querySelector('[data-categoria="todos"]').classList.add('active');
+  }
+});
