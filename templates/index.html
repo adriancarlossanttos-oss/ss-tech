@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>SS Tech — Catálogo</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/static/css/style.css"/>
+</head>
+<body>
+
+  <!-- HEADER -->
+  <header>
+    <div class="header-inner">
+      <div class="logo">
+        <span class="logo-ss">SS</span><span class="logo-tech">TECH</span>
+      </div>
+      <p class="tagline">Tecnologia no seu estilo</p>
+    </div>
+    <div class="header-bar"></div>
+  </header>
+
+  <!-- FILTROS -->
+  <section class="filtros-section">
+    <div class="container">
+      <button class="filtro-btn active" data-categoria="todos">Todos</button>
+      {% for cat in categorias %}
+      <button class="filtro-btn" data-categoria="{{ cat }}">{{ cat }}</button>
+      {% endfor %}
+    </div>
+  </section>
+
+  <!-- GRID DE PRODUTOS -->
+  <main class="container">
+    <div class="produtos-grid" id="produtos-grid">
+      {% for p in produtos %}
+      <div class="card" data-categoria="{{ p.categoria }}" data-id="{{ p.id }}" onclick="abrirModal({{ p.id }})">
+        {% if p.destaque %}
+        <span class="badge">Destaque</span>
+        {% endif %}
+        <div class="card-img">
+          <img src="/{{ p.imagem }}" alt="{{ p.nome }}"
+               onerror="this.src='https://placehold.co/400x300/111827/4ade80?text=📦+Foto+em+breve'"/>
+        </div>
+        <div class="card-body">
+          <span class="card-cat">{{ p.categoria }}</span>
+          <h3 class="card-nome">{{ p.nome }}</h3>
+          <p class="card-preco">R$ {{ "%.2f"|format(p.preco)|replace('.', ',') }}</p>
+          <button class="btn-ver">Ver detalhes →</button>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </main>
+
+  <!-- MODAL -->
+  <div class="modal-overlay" id="modal-overlay" onclick="fecharModal()">
+    <div class="modal" id="modal" onclick="event.stopPropagation()">
+      <button class="modal-close" onclick="fecharModal()">✕</button>
+      <div class="modal-conteudo">
+        <div class="modal-img-wrap">
+          <img id="modal-img" src="" alt="" />
+        </div>
+        <div class="modal-info">
+          <span class="modal-cat" id="modal-cat"></span>
+          <h2 id="modal-nome"></h2>
+          <p class="modal-preco" id="modal-preco"></p>
+          <p class="modal-desc" id="modal-desc"></p>
+          <ul class="modal-detalhes" id="modal-detalhes"></ul>
+          <div class="modal-contato">
+            <p>Interessado? Entre em contato:</p>
+            <a href="https://wa.me/5500000000000" target="_blank" class="btn-whatsapp">
+              📲 Chamar no WhatsApp
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- FOOTER -->
+  <footer>
+    <div class="container">
+      <span class="logo-ss">SS</span><span class="logo-tech">TECH</span>
+      <p>© 2025 SS Tech — Todos os direitos reservados</p>
+    </div>
+  </footer>
+
+  <script src="/static/js/main.js"></script>
+</body>
+</html>
