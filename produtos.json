@@ -266,7 +266,27 @@
     "preco": 49.90,
     "descricao": "Caneca térmica de 709ml em aço inoxidável com tecnologia de parede dupla e isolamento a vácuo, projetada para alta durabilidade e conforto térmico.",
     "detalhes": ["Eficiência Térmica Superior", "Construção em Aço Inox", "Design Ergonômico", "Capacidade Elevada"],
-    "imagem": "imagens/canecachoopjpg",
+    "imagem": "imagens/canecachoop.jpg",
+    "destaque": false
+  },
+   {
+    "id": 28,
+    "nome": "Copo Térmico Quencher com canudo - 1.2L",
+    "categoria": "Copos/Garrafas",
+    "preco": 54.90,
+    "descricao": "Copo térmico de 1200ml em aço inox com isolamento de parede dupla, alça ergonômica e base cônica projetada para encaixe em porta-copos.",
+    "detalhes": ["Alta Capacidade e Vedação", "Isolamento Térmico Avançado", "Acessórios de Qualidade Alimentar", "Ergonomia e Mobilidade"],
+    "imagem": "imagens/copo1200ml.jpg",
+    "destaque": false
+  },
+  {
+    "id": 29,
+    "nome": "Projetor Galáxia Astronauta Com Bluetooth",
+    "categoria": "Outros",
+    "preco": 89.90,
+    "descricao": "Projetor galáxia 5 em 1 com design de astronauta, que combina iluminação LED RGB, caixa de som Bluetooth, máquina de ruído branco e luminária noturna ajustável.",
+    "detalhes": ["Experiência Visual Imersiva ", "Multifuncionalidade Sonora", "Modo Ritmo Inteligente", "Controle Total e Praticidade"],
+    "imagem": "imagens/astronauta.jpg",
     "destaque": false
   }
 ]
