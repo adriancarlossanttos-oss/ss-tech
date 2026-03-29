@@ -16,7 +16,7 @@
     "preco": 99.90,
     "descricao": "Proteja sua família com a câmera 360° Orbitronic: resolução HD, áudio bidirecional e instalação instantânea via bocal E27.",
     "detalhes": ["Cobertura Panorâmica", "Qualidade de Imagem", "Áudio Bidirecional", "Visão Noturna"],
-    "imagens": ["imagens/Camera360.jpg"],
+    "imagens": ["imagens/Camera360.jpg", "imagens/Camera3602.jpg"],
     "destaque": true
   },
   {
@@ -26,7 +26,7 @@
     "preco": 79.90,
     "descricao": "Câmera de Segurança Wi-Fi 360°: monitoramento panorâmico em tempo real com instalação prática em bocal de lâmpada e alertas no celular.",
     "detalhes": ["Cobertura Completa", "Instalação Simplificada", "Recursos Inteligentes", "Comunicação Remota"],
-    "imagens": ["imagens/Cameraseg.jpg"],
+    "imagens": ["imagens/Cameraseg.jpg", "imagens/Cameraseg2.jpg"],
     "destaque": false
   },
   {
@@ -36,7 +36,7 @@
     "preco": 44.90,
     "descricao": "Relógio inteligente acessível com tela colorida de 1,3 polegadas, notificações de apps e monitoramento básico de saúde e atividades.",
     "detalhes": ["Conectividade Completa", "Monitoramento de Saúde", "Notificações Inteligentes", "Resistência a Respingos"],
-    "imagens": ["imagens/Y68d20.jpg"],
+    "imagens": ["imagens/Y68d20.jpg", "imagens/Y68d202.jpg"],
     "destaque": false
   },
   {
@@ -46,7 +46,7 @@
     "preco": 44.90,
     "descricao": "Som estéreo premium com Bluetooth 5.1 e design ergonômico ultraleve para máximo conforto e estabilidade.",
     "detalhes": ["Conectividade Avançada", "Áudio de Alta Fidelidade", "Design Ergonômico", "Ampla Compatibilidade"],
-    "imagens": ["imagens/Lenovo.jpg"],
+    "imagens": ["imagens/Lenovo.jpg", "imagens/Lenovo2.jpg"],
     "destaque": false
   },
   {
