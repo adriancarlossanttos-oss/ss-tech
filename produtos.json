@@ -248,5 +248,25 @@
     "detalhes": ["Eficiência Térmica", "Sistema Click Rápido", "Kit Compartilhável", "Construção Ultra Resistente"],
     "imagem": "imagens/Kitgarrafa.jpg",
     "destaque": false
+  },
+  {
+    "id": 26,
+    "nome": "Carregador de Iphone 20W",
+    "categoria": "Carregadores",
+    "preco": 39.90,
+    "descricao": "Fonte de alimentação + cabo USB-C de 20W com tecnologia de carregamento rápido PD, design compacto e sistema de segurança inteligente para preservação da bateria.",
+    "detalhes": ["Carregamento Veloz (PD)", "Segurança Avançada", "Compatibilidade Universal  ", "Portabilidade e Design"],
+    "imagem": "imagens/carregadoriphone.jpg",
+    "destaque": false
+  },
+  {
+    "id": 27,
+    "nome": "Caneca Térmica Chopp - 709ml",
+    "categoria": "Copos/Garrafas",
+    "preco": 49.90,
+    "descricao": "Caneca térmica de 709ml em aço inoxidável com tecnologia de parede dupla e isolamento a vácuo, projetada para alta durabilidade e conforto térmico.",
+    "detalhes": ["Eficiência Térmica Superior", "Construção em Aço Inox", "Design Ergonômico", "Capacidade Elevada"],
+    "imagem": "imagens/canecachoopjpg",
+    "destaque": false
   }
 ]
