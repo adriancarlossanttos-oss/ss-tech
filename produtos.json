@@ -6,7 +6,7 @@
     "preco": 94.90,
     "descricao": "O JBL Tune 510BT é um fone on-ear leve e dobrável com Bluetooth 5.0, som Pure Bass e microfone integrado, ideal para o dia a dia.",
     "detalhes": ["Bluetooth 5.0", "Cancelamento de ruído ativo", "Dobrável e leve"],
-    "imagem": "imagens/FoneJBL.jpg",
+    "imagens": ["imagens/FoneJBL.jpg"],
     "destaque": false
   },
   {
@@ -16,7 +16,7 @@
     "preco": 99.90,
     "descricao": "Proteja sua família com a câmera 360° Orbitronic: resolução HD, áudio bidirecional e instalação instantânea via bocal E27.",
     "detalhes": ["Cobertura Panorâmica", "Qualidade de Imagem", "Áudio Bidirecional", "Visão Noturna"],
-    "imagem": "imagens/Camera360.jpg",
+    "imagens": ["imagens/Camera360.jpg"],
     "destaque": true
   },
   {
@@ -26,7 +26,7 @@
     "preco": 79.90,
     "descricao": "Câmera de Segurança Wi-Fi 360°: monitoramento panorâmico em tempo real com instalação prática em bocal de lâmpada e alertas no celular.",
     "detalhes": ["Cobertura Completa", "Instalação Simplificada", "Recursos Inteligentes", "Comunicação Remota"],
-    "imagem": "imagens/Cameraseg.jpg",
+    "imagens": ["imagens/Cameraseg.jpg"],
     "destaque": false
   },
   {
@@ -35,8 +35,8 @@
     "categoria": "Relógios",
     "preco": 44.90,
     "descricao": "Relógio inteligente acessível com tela colorida de 1,3 polegadas, notificações de apps e monitoramento básico de saúde e atividades.",
-      "detalhes": ["Conectividade Completa", "Monitoramento de Saúde", "Notificações Inteligentes", "Resistência a Respingos"],
-    "imagem": "imagens/Y68d20.jpg",
+    "detalhes": ["Conectividade Completa", "Monitoramento de Saúde", "Notificações Inteligentes", "Resistência a Respingos"],
+    "imagens": ["imagens/Y68d20.jpg"],
     "destaque": false
   },
   {
@@ -46,7 +46,7 @@
     "preco": 44.90,
     "descricao": "Som estéreo premium com Bluetooth 5.1 e design ergonômico ultraleve para máximo conforto e estabilidade.",
     "detalhes": ["Conectividade Avançada", "Áudio de Alta Fidelidade", "Design Ergonômico", "Ampla Compatibilidade"],
-    "imagem": "imagens/Lenovo.jpg",
+    "imagens": ["imagens/Lenovo.jpg"],
     "destaque": false
   },
   {
@@ -56,17 +56,17 @@
     "preco": 79.90,
     "descricao": "AirPods Pro 2ª geração: fones in-ear de alta fidelidade com cancelamento de ruído, conexão TWS e carregamento sem fio.",
     "detalhes": ["Conectividade Moderna: Tipo C", "Cancelamento de Ruído", "Resistência e Uso", "Recursos de Controle"],
-    "imagem": "imagens/Airpods.jpg",
+    "imagens": ["imagens/Airpods.jpg"],
     "destaque": true
   },
-   {
+  {
     "id": 7,
     "nome": "Relógio Smartwatch T800",
     "categoria": "Relógios",
     "preco": 64.90,
     "descricao": "Smartwatch com tela HD de 1,99 polegadas, chamadas via Bluetooth e monitoramento completo de saúde com design premium e custo-benefício.",
     "detalhes": ["Interatividade Total", "Monitoramento de Saúde", "Experiência Visual", "Praticidade e Resistência", "Com Película de Brinde"],
-    "imagem": "imagens/T800.jpg",
+    "imagens": ["imagens/T800.jpg"],
     "destaque": false
   },
   {
@@ -76,7 +76,7 @@
     "preco": 49.90,
     "descricao": "Fone de ouvido intra-auricular HiFi com conexão Tipo-C, som estéreo de alta definição e graves potentes para músicas e jogos.",
     "detalhes": ["Desempenho Para Jogos", "Conforto Extremo", "Comunicação Clara", "Conectividade Universal"],
-    "imagem": "imagens/Tipoc.jpg",
+    "imagens": ["imagens/Tipoc.jpg"],
     "destaque": false
   },
   {
@@ -86,7 +86,7 @@
     "preco": 44.90,
     "descricao": "Suporte veicular com fixação robusta por ventosa de silicone, ajuste panorâmico de 360° e braço expansível para máxima segurança ao dirigir.",
     "detalhes": ["Fixação Inteligente", "Articulação Completa", "Aderência Premium", "Versatilidade de Uso"],
-    "imagem": "imagens/Suporte.jpg",
+    "imagens": ["imagens/Suporte.jpg"],
     "destaque": false
   },
   {
@@ -96,7 +96,7 @@
     "preco": 49.90,
     "descricao": "Fone de ouvido HiFi profissional com drivers de cobre, graves potentes e design ergonômico ideal para música, esportes e monitoramento.",
     "detalhes": ["Alta Fidelidade Sonora", "Isolamento Acústico", "Ajuste Esportivo", "Ergonomia e Estabilidade", "Saida Tradicional - P2"],
-    "imagem": "imagens/QKZ.jpg",
+    "imagens": ["imagens/QKZ.jpg"],
     "destaque": false
   },
   {
@@ -106,7 +106,7 @@
     "preco": 44.90,
     "descricao": "Combo Turbo Power 5.0: kit de carregamento ultra rápido com 50W de potência, chip de segurança inteligente e cabo Micro-USB (V8) reforçado.",
     "detalhes": ["Alta Performance: 50W", "Segurança Avançada", "Durabilidade Reforçada", "Carregamento Adaptativo"],
-    "imagem": "imagens/V8.jpg",
+    "imagens": ["imagens/V8.jpg"],
     "destaque": false
   },
   {
@@ -116,7 +116,7 @@
     "preco": 79.90,
     "descricao": "Power bank magnético de 5000mAh com carregamento por indução, design compacto e portátil para recargas rápidas sem a necessidade de cabos.",
     "detalhes": ["Fixação Magnética", "Capacidade de 5000mAh", "Ativação Instantânea", "Ampla Compatibilidade: Compatível com iPhones que possuem carregamento por indução, como iPhone 11, 12, 13, 14, 15, 16 e 17 (Pro / Pro Max)"],
-    "imagem": "imagens/Powerbankiphone.jpg",
+    "imagens": ["imagens/Powerbankiphone.jpg"],
     "destaque": true
   },
   {
@@ -126,7 +126,7 @@
     "preco": 79.90,
     "descricao": "Luminária inteligente multifuncional com carregamento por indução de 15W, som Bluetooth integrado e iluminação RGB personalizável.",
     "detalhes": ["Carregamento Inteligente: 15W", "Ambiente Personalizavel", "Central de Entretenimento", "Versatilidade de Conexão", "Carregamento por Indução"],
-    "imagem": "imagens/Luminariag.jpg",
+    "imagens": ["imagens/Luminariag.jpg"],
     "destaque": false
   },
   {
@@ -136,7 +136,7 @@
     "preco": 29.90,
     "descricao": "Lanterna compacta recarregável via USB com LEDs de alta eficiência, ideal para emergências e atividades ao ar livre com iluminação potente.",
     "detalhes": ["Sistema Sustentável: Sem Pilhas!", "Iluminação de Alta Performance", "Design Ultraleve", "Versatilidade de Uso"],
-    "imagem": "imagens/Lanternal19.jpg",
+    "imagens": ["imagens/Lanternal19.jpg"],
     "destaque": false
   },
   {
@@ -146,7 +146,7 @@
     "preco": 49.90,
     "descricao": "Copo térmico em aço inoxidável com isolamento a vácuo e visor digital de temperatura em tempo real integrado na tampa.",
     "detalhes": ["Monitoramento Inteligente: Display na tela!", "Isolamento de Alta Performance", "Vedação Hermética", "Material Premium"],
-    "imagem": "imagens/Coffee.jpg",
+    "imagens": ["imagens/Coffee.jpg"],
     "destaque": false
   },
   {
@@ -156,7 +156,7 @@
     "preco": 34.90,
     "descricao": "Garrafa térmica inteligente de 500ml em aço inox com display LED touch na tampa para monitoramento de temperatura em tempo real.",
     "detalhes": ["Isolamento de Longa Duração", "Material de Alta Qualidade", "Tecnologia de Toque", "Vedação Hermética"],
-    "imagem": "imagens/Garrafa500ml.jpg",
+    "imagens": ["imagens/Garrafa500ml.jpg"],
     "destaque": false
   },
   {
@@ -166,7 +166,7 @@
     "preco": 59.90,
     "descricao": "Copo térmico em aço inoxidável com parede dupla e isolamento a vácuo, acompanhado de caixa de som Bluetooth removível com iluminação LED.",
     "detalhes": ["Dualidade FuncionaL: Copo + Caixinha de Som", "Isolamento Térmico", "Conectividade Sem Fio", "Construção Resistente"],
-    "imagem": "imagens/Copocaixa.jpg",
+    "imagens": ["imagens/Copocaixa.jpg"],
     "destaque": false
   },
   {
@@ -176,7 +176,7 @@
     "preco": 34.90,
     "descricao": "Fones de ouvido com conexão Bluetooth 5.0, design ergonômico ultraleve e acabamento fosco em tons pastel para um visual moderno e exclusivo.",
     "detalhes": ["Controle Inteligente", "Conectividade Estável", "Versatilidade Total", "Conforto Prolongado"],
-    "imagem": "imagens/Fonei12.jpg",
+    "imagens": ["imagens/Fonei12.jpg"],
     "destaque": false
   },
   {
@@ -186,7 +186,7 @@
     "preco": 59.90,
     "descricao": "Fones de ouvido gamer TWS com tecnologia de decodificação PAU para áudio posicional preciso, baixa latência e design moderno com iluminação LED.",
     "detalhes": ["Performance em Jogos", "Sincronização Total", "Autonomia Prolongada", "Gestão de Energia"],
-    "imagem": "imagens/Fonex15.jpg",
+    "imagens": ["imagens/Fonex15.jpg"],
     "destaque": false
   },
   {
@@ -196,7 +196,7 @@
     "preco": 49.90,
     "descricao": "Fone de ouvido Bluetooth 5.0 dobrável e versátil, com suporte para cartão Micro SD e entrada auxiliar, ideal para uso casual e transporte prático.",
     "detalhes": ["Múltiplas Conexões", "Design Inteligente", "Comunicação Prática", "Entrada pra Cartão de memória e cabo auxiliar P2"],
-    "imagem": "imagens/Fonep47.jpg",
+    "imagens": ["imagens/Fonep47.jpg"],
     "destaque": false
   },
   {
@@ -206,7 +206,7 @@
     "preco": 49.90,
     "descricao": "Caixa de som portátil wireless com alto-falante de 5W, iluminação LED e múltiplas entradas para reprodução de áudio de diversas fontes.",
     "detalhes": ["Conectividade Versátil", "Design Prático e Funcional", "Sistema de Áudio Full-Range", "Alimentação Bivolt"],
-    "imagem": "imagens/Kimiso.jpg",
+    "imagens": ["imagens/Kimiso.jpg"],
     "destaque": false
   },
   {
@@ -216,7 +216,7 @@
     "preco": 39.90,
     "descricao": "Fones de ouvido com tecnologia Bluetooth 5.0 de alta velocidade, modo gamer de baixa latência e proteção IPX4 contra suor e respingos.",
     "detalhes": ["Conexão Avançada", "Resistência Prática", "Interação Inteligente", "Autonomia e Design"],
-    "imagem": "imagens/Fonea6s.jpg",
+    "imagens": ["imagens/Fonea6s.jpg"],
     "destaque": false
   },
   {
@@ -226,7 +226,7 @@
     "preco": 34.90,
     "descricao": "Máquina de acabamento profissional com motor de 5W, design metálico icônico e lâminas de aço carbono de alta precisão para cortes, desenhos e depilação.",
     "detalhes": ["Alta Performance de Corte", "Autonomia de Uso", "Design Ergonômico e Compacto", "Kit de Acessórios Completo: 4 pentes, escova de limpeza e óleo lubrificante"],
-    "imagem": "imagens/Maquinadragao.jpg",
+    "imagens": ["imagens/Maquinadragao.jpg"],
     "destaque": true
   },
   {
@@ -236,7 +236,7 @@
     "preco": 44.90,
     "descricao": "Fones de ouvido TWS com conexão Bluetooth 5.0, estojo de carregamento com display digital inteligente e proteção IPX4 contra respingos e suor.",
     "detalhes": ["Gerenciamento de Energia", "Conexão Inteligente", "Uso Flexível e Independente", "Design Ergonômico"],
-    "imagem": "imagens/Fonee6s.jpg",
+    "imagens": ["imagens/Fonee6s.jpg"],
     "destaque": false
   },
   {
@@ -246,7 +246,7 @@
     "preco": 49.90,
     "descricao": "Conjunto térmico de 500ml em aço inoxidável com pintura fosca, sistema de isolamento a vácuo de parede dupla e tampa funcional que serve como copo.",
     "detalhes": ["Eficiência Térmica", "Sistema Click Rápido", "Kit Compartilhável", "Construção Ultra Resistente"],
-    "imagem": "imagens/Kitgarrafa.jpg",
+    "imagens": ["imagens/Kitgarrafa.jpg"],
     "destaque": false
   },
   {
@@ -255,8 +255,8 @@
     "categoria": "Carregadores",
     "preco": 39.90,
     "descricao": "Fonte de alimentação + cabo USB-C de 20W com tecnologia de carregamento rápido PD, design compacto e sistema de segurança inteligente para preservação da bateria.",
-    "detalhes": ["Carregamento Veloz (PD)", "Segurança Avançada", "Compatibilidade Universal  ", "Portabilidade e Design"],
-    "imagem": "imagens/carregadoriphone.jpg",
+    "detalhes": ["Carregamento Veloz (PD)", "Segurança Avançada", "Compatibilidade Universal", "Portabilidade e Design"],
+    "imagens": ["imagens/carregadoriphone.jpg"],
     "destaque": false
   },
   {
@@ -266,17 +266,17 @@
     "preco": 49.90,
     "descricao": "Caneca térmica de 709ml em aço inoxidável com tecnologia de parede dupla e isolamento a vácuo, projetada para alta durabilidade e conforto térmico.",
     "detalhes": ["Eficiência Térmica Superior", "Construção em Aço Inox", "Design Ergonômico", "Capacidade Elevada"],
-    "imagem": "imagens/canecachoop.jpg",
+    "imagens": ["imagens/canecachoop.jpg"],
     "destaque": false
   },
-   {
+  {
     "id": 28,
     "nome": "Copo Térmico Quencher com canudo - 1.2L",
     "categoria": "Copos/Garrafas",
     "preco": 54.90,
     "descricao": "Copo térmico de 1200ml em aço inox com isolamento de parede dupla, alça ergonômica e base cônica projetada para encaixe em porta-copos.",
     "detalhes": ["Alta Capacidade e Vedação", "Isolamento Térmico Avançado", "Acessórios de Qualidade Alimentar", "Ergonomia e Mobilidade"],
-    "imagem": "imagens/copo1200ml.jpg",
+    "imagens": ["imagens/copo1200ml.jpg"],
     "destaque": false
   },
   {
@@ -285,28 +285,28 @@
     "categoria": "Outros",
     "preco": 89.90,
     "descricao": "Projetor galáxia 5 em 1 com design de astronauta, que combina iluminação LED RGB, caixa de som Bluetooth, máquina de ruído branco e luminária noturna ajustável.",
-    "detalhes": ["Experiência Visual Imersiva ", "Multifuncionalidade Sonora", "Modo Ritmo Inteligente", "Controle Total e Praticidade"],
-    "imagem": "imagens/astronauta.jpg",
+    "detalhes": ["Experiência Visual Imersiva", "Multifuncionalidade Sonora", "Modo Ritmo Inteligente", "Controle Total e Praticidade"],
+    "imagens": ["imagens/astronauta.jpg"],
     "destaque": false
   },
-   {
+  {
     "id": 30,
     "nome": "Caixinha de Som Bluetooth Com Ventosa À Prova Dágua",
     "categoria": "Caixas de Som",
     "preco": 29.90,
     "descricao": "Caixa de som Bluetooth compacta com resistência à água e sistema de fixação por ventosa, projetada especificamente para uso em ambientes úmidos como banheiros, piscinas e praias.",
     "detalhes": ["Fixação Versátil", "Comunicação Hands-Free", "Autonomia e Recarga", "Compatibilidade Universal"],
-    "imagem": "imagens/caixinhacomventosa.jpg",
+    "imagens": ["imagens/caixinhacomventosa.jpg"],
     "destaque": false
   },
-    {
+  {
     "id": 31,
     "nome": "Fone de Ouvido Bluetooth M10",
     "categoria": "Fones de Ouvido",
     "preco": 39.90,
     "descricao": "Fones de ouvido TWS com tecnologia Bluetooth 5.3, som estéreo 9D imersivo e estojo de carregamento de alta capacidade que funciona como power bank.",
     "detalhes": ["Estojo Multifuncional", "Cancelamento de Ruído Ativo", "Conforto e Ergonomia", "Controle e Versatilidade"],
-    "imagem": "imagens/fonem10.jpg",
+    "imagens": ["imagens/fonem10.jpg"],
     "destaque": false
   },
   {
@@ -314,9 +314,9 @@
     "nome": "Microfone Lapela Tipo C",
     "categoria": "Outros",
     "preco": 34.90,
-    "descricao": "O Gemini disse\nSistema de microfone de lapela duplo sem fio com tecnologia 2.4GHz, conexão Plug and Play e redução inteligente de ruído para gravações profissionais diretamente no smartphone.",
+    "descricao": "Sistema de microfone de lapela duplo sem fio com tecnologia 2.4GHz, conexão Plug and Play e redução inteligente de ruído para gravações profissionais diretamente no smartphone.",
     "detalhes": ["Conectividade Instantânea", "Alcance e Estabilidade", "Processamento de Áudio Inteligente", "Design Ultraleve e Portátil"],
-    "imagem": "imagens/lapela.jpg",
+    "imagens": ["imagens/lapela.jpg"],
     "destaque": false
   }
 ]
