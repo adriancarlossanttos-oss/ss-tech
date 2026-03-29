@@ -1,12 +1,12 @@
 [
   {
     "id": 1,
-    "nome": "Fone De Ouvido Bluetooth JBL - Headset",
+    "nome": "Fone De Ouvido Bluetooth JBL BT510 - Headset",
     "categoria": "Fones de Ouvido",
     "preco": 94.90,
     "descricao": "O JBL Tune 510BT é um fone on-ear leve e dobrável com Bluetooth 5.0, som Pure Bass e microfone integrado, ideal para o dia a dia.",
     "detalhes": ["Bluetooth 5.0", "Cancelamento de ruído ativo", "Dobrável e leve"],
-    "imagens": ["imagens/FoneJBL.jpg"],
+    "imagens": ["imagens/FoneJBL.jpg", "imagens/FoneJBL2.jpg"],
     "destaque": false
   },
   {
