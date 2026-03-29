@@ -308,5 +308,15 @@
     "detalhes": ["Estojo Multifuncional", "Cancelamento de Ruído Ativo", "Conforto e Ergonomia", "Controle e Versatilidade"],
     "imagem": "imagens/fonem10.jpg",
     "destaque": false
+  },
+  {
+    "id": 32,
+    "nome": "Microfone Lapela Tipo C",
+    "categoria": "Outros",
+    "preco": 34.90,
+    "descricao": "O Gemini disse\nSistema de microfone de lapela duplo sem fio com tecnologia 2.4GHz, conexão Plug and Play e redução inteligente de ruído para gravações profissionais diretamente no smartphone.",
+    "detalhes": ["Conectividade Instantânea", "Alcance e Estabilidade", "Processamento de Áudio Inteligente", "Design Ultraleve e Portátil"],
+    "imagem": "imagens/lapela.jpg",
+    "destaque": false
   }
 ]
