@@ -56,21 +56,7 @@ function mudarFoto(direcao) {
 }
 
 function montarThumbs() {
-  const container = document.getElementById('galeria-thumbs');
-  container.innerHTML = '';
-
-  if (fotosGaleria.length <= 1) return;
-
-  fotosGaleria.forEach((foto, i) => {
-    const img = document.createElement('img');
-    img.src = '/' + foto;
-    img.className = 'thumb' + (i === 0 ? ' thumb-ativa' : '');
-    img.onclick = (e) => { e.stopPropagation(); atualizarFoto(i); };
-    img.onerror = function() {
-      this.src = 'https://placehold.co/80x80/111827/4ade80?text=📦';
-    };
-    container.appendChild(img);
-  });
+  // miniaturas desativadas
 }
 
 // ----- MODAL -----
