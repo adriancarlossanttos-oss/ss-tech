@@ -288,5 +288,25 @@
     "detalhes": ["Experiência Visual Imersiva ", "Multifuncionalidade Sonora", "Modo Ritmo Inteligente", "Controle Total e Praticidade"],
     "imagem": "imagens/astronauta.jpg",
     "destaque": false
+  },
+   {
+    "id": 30,
+    "nome": "Caixinha de Som Bluetooth Com Ventosa À Prova Dágua",
+    "categoria": "Caixas de Som",
+    "preco": 29.90,
+    "descricao": "Caixa de som Bluetooth compacta com resistência à água e sistema de fixação por ventosa, projetada especificamente para uso em ambientes úmidos como banheiros, piscinas e praias.",
+    "detalhes": ["Fixação Versátil", "Comunicação Hands-Free", "Autonomia e Recarga", "Compatibilidade Universal"],
+    "imagem": "imagens/caixinhacomventosa.jpg",
+    "destaque": false
+  },
+    {
+    "id": 31,
+    "nome": "Fone de Ouvido Bluetooth M10",
+    "categoria": "Fones de Ouvido",
+    "preco": 39.90,
+    "descricao": "Fones de ouvido TWS com tecnologia Bluetooth 5.3, som estéreo 9D imersivo e estojo de carregamento de alta capacidade que funciona como power bank.",
+    "detalhes": ["Estojo Multifuncional", "Cancelamento de Ruído Ativo", "Conforto e Ergonomia", "Controle e Versatilidade"],
+    "imagem": "imagens/fonem10.jpg",
+    "destaque": false
   }
 ]
