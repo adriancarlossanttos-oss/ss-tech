@@ -221,7 +221,7 @@
   },
   {
     "id": 23,
-    "nome": "Máquina de Cabelo/Barbear Sem Sio Portátil",
+    "nome": "Máquina de Cabelo/Barbear Sem Fio Portátil",
     "categoria": "Beleza",
     "preco": 34.90,
     "descricao": "Máquina de acabamento profissional com motor de 5W, design metálico icônico e lâminas de aço carbono de alta precisão para cortes, desenhos e depilação.",
@@ -235,8 +235,18 @@
     "categoria": "Fones de Ouvido",
     "preco": 44.90,
     "descricao": "Fones de ouvido TWS com conexão Bluetooth 5.0, estojo de carregamento com display digital inteligente e proteção IPX4 contra respingos e suor.",
-    "detalhes": ["Gerenciamento de Energia:", "Conexão Inteligente", "Uso Flexível e Independente", "Design Ergonômico"],
+    "detalhes": ["Gerenciamento de Energia", "Conexão Inteligente", "Uso Flexível e Independente", "Design Ergonômico"],
     "imagem": "imagens/Fonee6s.jpg",
+    "destaque": false
+  },
+  {
+    "id": 25,
+    "nome": "Kit Garrafa térmica + 3 xícaras",
+    "categoria": "Copos/Garrafas",
+    "preco": 49.90,
+    "descricao": "Conjunto térmico de 500ml em aço inoxidável com pintura fosca, sistema de isolamento a vácuo de parede dupla e tampa funcional que serve como copo.",
+    "detalhes": ["Eficiência Térmica", "Sistema Click Rápido", "Kit Compartilhável", "Construção Ultra Resistente"],
+    "imagem": "imagens/Kitgarrafa.jpg",
     "destaque": false
   }
 ]
