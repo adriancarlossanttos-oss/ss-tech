@@ -66,7 +66,7 @@
     "preco": 64.90,
     "descricao": "Smartwatch com tela HD de 1,99 polegadas, chamadas via Bluetooth e monitoramento completo de saúde com design premium e custo-benefício.",
     "detalhes": ["Interatividade Total", "Monitoramento de Saúde", "Experiência Visual", "Praticidade e Resistência", "Com Película de Brinde"],
-    "imagens": ["imagens/T800.jpg"],
+    "imagens": ["imagens/T800.jpg", "imagens/T8002.jpg", "imagens/T8003.jpg", "imagens/T8004.jpg", "imagens/T8005.jpg"],
     "destaque": false
   },
   {
@@ -76,7 +76,7 @@
     "preco": 49.90,
     "descricao": "Fone de ouvido intra-auricular HiFi com conexão Tipo-C, som estéreo de alta definição e graves potentes para músicas e jogos.",
     "detalhes": ["Desempenho Para Jogos", "Conforto Extremo", "Comunicação Clara", "Conectividade Universal"],
-    "imagens": ["imagens/Tipoc.jpg"],
+    "imagens": ["imagens/Tipoc.jpg", "imagens/Tipoc2.jpg", "imagens/Tipoc3.jpg"],
     "destaque": false
   },
   {
@@ -86,7 +86,7 @@
     "preco": 44.90,
     "descricao": "Suporte veicular com fixação robusta por ventosa de silicone, ajuste panorâmico de 360° e braço expansível para máxima segurança ao dirigir.",
     "detalhes": ["Fixação Inteligente", "Articulação Completa", "Aderência Premium", "Versatilidade de Uso"],
-    "imagens": ["imagens/Suporte.jpg"],
+    "imagens": ["imagens/Suporte.jpg", "imagens/Suporte2.jpg", "imagens/Suporte3.jpg", "imagens/Suporte4.jpg", "imagens/Suporte5.jpg", "imagens/Suporte6.jpg"],
     "destaque": false
   },
   {
@@ -96,7 +96,7 @@
     "preco": 49.90,
     "descricao": "Fone de ouvido HiFi profissional com drivers de cobre, graves potentes e design ergonômico ideal para música, esportes e monitoramento.",
     "detalhes": ["Alta Fidelidade Sonora", "Isolamento Acústico", "Ajuste Esportivo", "Ergonomia e Estabilidade", "Saida Tradicional - P2"],
-    "imagens": ["imagens/QKZ.jpg"],
+    "imagens": ["imagens/QKZ.jpg", "imagens/QKZ2.jpg", "imagens/QKZ3.jpg", "imagens/QKZ4.jpg", "imagens/QKZ5.jpg", "imagens/QKZ6.jpg"],
     "destaque": false
   },
   {
@@ -106,7 +106,7 @@
     "preco": 44.90,
     "descricao": "Combo Turbo Power 5.0: kit de carregamento ultra rápido com 50W de potência, chip de segurança inteligente e cabo Micro-USB (V8) reforçado.",
     "detalhes": ["Alta Performance: 50W", "Segurança Avançada", "Durabilidade Reforçada", "Carregamento Adaptativo"],
-    "imagens": ["imagens/V8.jpg"],
+    "imagens": ["imagens/V8.jpg", "imagens/V82.jpg", "imagens/V83.jpg", "imagens/V84.jpg"],
     "destaque": false
   },
   {
@@ -325,7 +325,7 @@
     "categoria": "Outros",
     "preco": 99.90,
     "descricao": "Luminária multifuncional com ventilador de teto integrado de seis pás, motor ultrassilencioso e painel LED de 60W com temperatura de cor ajustável.",
-    "detalhes": ["Iluminação Personalizável", "Iluminação Personalizável", "Controle Inteligente e Prático  ", "Instalação Simplificada"],
+    "detalhes": ["Iluminação Personalizável", "Sistema de Ventilação Eficiente", "Controle Inteligente e Prático  ", "Instalação Simplificada"],
     "imagens": ["imagens/lampadacamera.jpg", "imagens/lampadacamera2.jpg", "imagens/lampadacamera3.jpg", "imagens/lampadacamera4.jpg"],
     "destaque": true
   },
