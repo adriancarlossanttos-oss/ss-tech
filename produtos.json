@@ -318,5 +318,25 @@
     "detalhes": ["Conectividade Instantânea", "Alcance e Estabilidade", "Processamento de Áudio Inteligente", "Design Ultraleve e Portátil"],
     "imagens": ["imagens/lapela.jpg"],
     "destaque": false
+  },
+   {
+    "id": 33,
+    "nome": "Lâmpada Led Ventilador",
+    "categoria": "Outros",
+    "preco": 99.90,
+    "descricao": "Luminária multifuncional com ventilador de teto integrado de seis pás, motor ultrassilencioso e painel LED de 60W com temperatura de cor ajustável.",
+    "detalhes": ["Iluminação Personalizável", "Iluminação Personalizável", "Controle Inteligente e Prático  ", "Instalação Simplificada"],
+    "imagens": ["imagens/lampadacamera.jpg", "lampadacamera2.jpg", "lampadacamera3.jpg","lampadacamera4.jpg"],
+    "destaque": true
+  },
+    {
+    "id": 34,
+    "nome": "Carregador Portátil PowerBank 10000Mah",
+    "categoria": "Carregadores",
+    "preco": 69.90,
+    "descricao": "Carregador portátil ultra-fino de 10.000mAh com bateria de polímero de lítio, design leve de apenas 118g e sistema inteligente de detecção de voltagem.",
+    "detalhes": ["Tecnologia Shake-to-Chargel", "Design Ultra Slim", "Gestão de Energia Inteligente", "Monitoramento Intuitivo"],
+    "imagens": ["imagens/powerbank1.jpg", "imagens/powerbank2.jpg"],
+    "destaque": false
   }
 ]
