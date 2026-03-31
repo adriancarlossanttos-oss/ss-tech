@@ -326,7 +326,7 @@
     "preco": 99.90,
     "descricao": "Luminária multifuncional com ventilador de teto integrado de seis pás, motor ultrassilencioso e painel LED de 60W com temperatura de cor ajustável.",
     "detalhes": ["Iluminação Personalizável", "Iluminação Personalizável", "Controle Inteligente e Prático  ", "Instalação Simplificada"],
-    "imagens": ["imagens/lampadacamera.jpg", "imagens/lampadacamera1.jpg", "imagens/lampadacamera2.jpg", "imagens/lampadacamera3.jpg", "imagens/lampadacamera4.jpg"],
+    "imagens": ["imagens/lampadacamera.jpg", "imagens/lampadacamera2.jpg", "imagens/lampadacamera3.jpg", "imagens/lampadacamera4.jpg"],
     "destaque": true
   },
     {
