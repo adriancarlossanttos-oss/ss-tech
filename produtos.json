@@ -206,7 +206,7 @@
     "preco": 49.90,
     "descricao": "Caixa de som portátil wireless com alto-falante de 5W, iluminação LED e múltiplas entradas para reprodução de áudio de diversas fontes.",
     "detalhes": ["Conectividade Versátil", "Design Prático e Funcional", "Sistema de Áudio Full-Range", "Alimentação Bivolt"],
-    "imagens": ["imagens/Kimiso1.jpg", "imagens/Kimiso2.jpg", "imagens/Kimiso3.jpg", "imagens/Kimiso4.jpg", "imagens/Kimiso.jpg5"],
+    "imagens": ["imagens/kimiso1.jpg", "imagens/kimiso2.jpg", "imagens/kimiso3.jpg", "imagens/kimiso4.jpg", "imagens/kimiso.jpg5"],
     "destaque": false
   },
   {
