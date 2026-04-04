@@ -358,5 +358,15 @@
     "detalhes": ["Tecnologia de Atomização Fina", "Design de Segurança Anti-Vazamento", "Iluminação Atmosférica Colorida", "Portabilidade USB", "Capacidade e Autonomia: Tanque de 220ml com sistema de desligamento programado para 4 horas!"],
     "imagens": ["imagens/umidificador.jpg", "imagens/umidificador2.jpg", "imagens/umidificador3.jpg"],
     "destaque": true
+  },
+  {
+    "id": 36,
+    "nome": "Massageador Portátil Pistola",
+    "categoria": "Outros",
+    "preco": 59.90,
+    "descricao": "Este dispositivo portátil utiliza vibrações pulsantes de alta frequência para ativar a musculatura, estimular o fluxo sanguíneo e reduzir drasticamente o tempo de recuperação. Com design ergonômico e ultrassilencioso, é a ferramenta ideal para relaxar tecidos profundos, liberar tensões e aliviar dores causadas por esforço físico ou treinos intensos em qualquer lugar.",
+    "detalhes": ["Intensidade Personalizável", "Versatilidade com 4 Cabeças", "Operação Silenciosa", "Bateria de Longa Duração", "Design Portátil e Bivolt"],
+    "imagens": ["imagens/massageador.jpg", "imagens/massageador2.jpg", "imagens/massageador3.jpg", "imagens/massageador4.jpg"., "imagens/massageador5.jpg"],
+    "destaque": false
   }
 ]
