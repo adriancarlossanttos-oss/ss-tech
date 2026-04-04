@@ -46,7 +46,7 @@
     "preco": 44.90,
     "descricao": "Som estéreo premium com Bluetooth 5.1 e design ergonômico ultraleve para máximo conforto e estabilidade.",
     "detalhes": ["Conectividade Avançada", "Áudio de Alta Fidelidade", "Design Ergonômico", "Ampla Compatibilidade"],
-    "imagens": ["imagens/Lenovo.jpg", "imagens/Lenovo2.jpg"],
+    "imagens": ["imagens/Lenovo.jpg", "imagens/Lenovo2.jpg", "imagens/Lenovo3.jpg"],
     "destaque": false
   },
   {
@@ -206,7 +206,7 @@
     "preco": 49.90,
     "descricao": "Caixa de som portátil wireless com alto-falante de 5W, iluminação LED e múltiplas entradas para reprodução de áudio de diversas fontes.",
     "detalhes": ["Conectividade Versátil", "Design Prático e Funcional", "Sistema de Áudio Full-Range", "Alimentação Bivolt"],
-    "imagens": ["imagens/Kimiso.jpg"],
+    "imagens": ["imagens/Kimiso1.jpg", "imagens/Kimiso2.jpg", "imagens/Kimiso3.jpg", "imagens/Kimiso4.jpg", "imagens/Kimiso.jpg5"],
     "destaque": false
   },
   {
@@ -216,7 +216,7 @@
     "preco": 39.90,
     "descricao": "Fones de ouvido com tecnologia Bluetooth 5.0 de alta velocidade, modo gamer de baixa latência e proteção IPX4 contra suor e respingos.",
     "detalhes": ["Conexão Avançada", "Resistência Prática", "Interação Inteligente", "Autonomia e Design"],
-    "imagens": ["imagens/Fonea6s.jpg"],
+    "imagens": ["imagens/a6s.jpg", "imagens/a6s2.jpg", "imagens/a6s3.jpg", "imagens/a6s4.jpg"],
     "destaque": false
   },
   {
@@ -266,7 +266,7 @@
     "preco": 49.90,
     "descricao": "Caneca térmica de 709ml em aço inoxidável com tecnologia de parede dupla e isolamento a vácuo, projetada para alta durabilidade e conforto térmico.",
     "detalhes": ["Eficiência Térmica Superior", "Construção em Aço Inox", "Design Ergonômico", "Capacidade Elevada"],
-    "imagens": ["imagens/canecachoop.jpg"],
+    "imagens": ["imagens/canecachoop.jpg", "imagens/canecachoop2.jpg", "imagens/canecachoop3.jpg", "imagens/canecachoop4.jpg", "imagens/canecachoop5.jpg"],
     "destaque": false
   },
   {
@@ -375,7 +375,7 @@
     "categoria": "Fones de Ouvido",
     "preco": 74.90,
     "descricao": "Este fone de ouvido redefine a experiência sem fio ao integrar uma tela sensível ao toque colorida diretamente no estojo de carregamento. Com tecnologia de cancelamento de ruído ativo (ANC) e Bluetooth 5.3, ele permite controlar músicas, chamadas e até funções do celular sem precisar tirar o aparelho do bolso, oferecendo praticidade total e som de alta fidelidade.",
-    "detalhes": ["Estojo com Tela Touch Integrada: ermite controlar volume, trocar faixas, ajustar brilho e até configurar alarmes diretamente no visor do estojo!", "Cancelamento de Ruído Avançado (ANC)", "Customização Visual e de Áudio", "Conectividade e Controle Remoto", "Interface Multilíngue"],
+    "detalhes": ["Estojo com Tela Touch Integrada: Permite controlar volume, trocar faixas, ajustar brilho e até configurar alarmes diretamente no visor do estojo!", "Cancelamento de Ruído Avançado (ANC)", "Customização Visual e de Áudio", "Conectividade e Controle Remoto", "Interface Multilíngue"],
     "imagens": ["imagens/fonea9pro.jpg", "imagens/fonea9pro2.jpg", "imagens/fonea9pro3.jpg", "imagens/fonea9pro4.jpg"],
     "destaque": false
   }
