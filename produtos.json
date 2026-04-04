@@ -296,7 +296,7 @@
     "preco": 29.90,
     "descricao": "Caixa de som Bluetooth compacta com resistência à água e sistema de fixação por ventosa, projetada especificamente para uso em ambientes úmidos como banheiros, piscinas e praias.",
     "detalhes": ["Fixação Versátil", "Comunicação Hands-Free", "Autonomia e Recarga", "Compatibilidade Universal"],
-    "imagens": ["imagens/caixinhacomventosa.jpg"],
+    "imagens": ["imagens/caixinhacomventosa.jpg", "imagens/caixinhacomventosa2.jpg", "imagens/caixinhacomventosa3.jpg", "imagens/caixinhacomventosa4.jpg", "imagens/caixinhacomventosa5.jpg", "imagens/caixinhacomventosa6.jpg"],
     "destaque": false
   },
   {
@@ -306,7 +306,7 @@
     "preco": 39.90,
     "descricao": "Fones de ouvido TWS com tecnologia Bluetooth 5.3, som estéreo 9D imersivo e estojo de carregamento de alta capacidade que funciona como power bank.",
     "detalhes": ["Estojo Multifuncional", "Cancelamento de Ruído Ativo", "Conforto e Ergonomia", "Controle e Versatilidade"],
-    "imagens": ["imagens/fonem10.jpg"],
+    "imagens": ["imagens/fonem10.jpg", "imagens/fonem102.jpg", "imagens/fonem103.jpg", "imagens/fonem104.jpg", "imagens/fonem105.jpg"],
     "destaque": false
   },
   {
@@ -316,7 +316,7 @@
     "preco": 34.90,
     "descricao": "Sistema de microfone de lapela duplo sem fio com tecnologia 2.4GHz, conexão Plug and Play e redução inteligente de ruído para gravações profissionais diretamente no smartphone.",
     "detalhes": ["Conectividade Instantânea", "Alcance e Estabilidade", "Processamento de Áudio Inteligente", "Design Ultraleve e Portátil"],
-    "imagens": ["imagens/lapela.jpg"],
+    "imagens": ["imagens/lapela.jpg", "imagens/lapela2.jpg", "imagens/lapela3.jpg", "imagens/lapela4.jpg"],
     "destaque": false
   },
    {
