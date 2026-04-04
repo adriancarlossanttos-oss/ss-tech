@@ -360,13 +360,23 @@
     "destaque": true
   },
   {
-    "id": 36,
+    "id": 37,
     "nome": "Massageador Portátil Pistola",
     "categoria": "Outros",
     "preco": 59.90,
     "descricao": "Este dispositivo portátil utiliza vibrações pulsantes de alta frequência para ativar a musculatura, estimular o fluxo sanguíneo e reduzir drasticamente o tempo de recuperação. Com design ergonômico e ultrassilencioso, é a ferramenta ideal para relaxar tecidos profundos, liberar tensões e aliviar dores causadas por esforço físico ou treinos intensos em qualquer lugar.",
     "detalhes": ["Intensidade Personalizável", "Versatilidade com 4 Cabeças", "Operação Silenciosa", "Bateria de Longa Duração", "Design Portátil e Bivolt"],
-    "imagens": ["imagens/massageador.jpg", "imagens/massageador2.jpg", "imagens/massageador3.jpg", "imagens/massageador4.jpg"., "imagens/massageador5.jpg"],
+    "imagens": ["imagens/massageador.jpg", "imagens/massageador2.jpg", "imagens/massageador3.jpg", "imagens/massageador4.jpg", "imagens/massageador5.jpg"],
+    "destaque": false
+  },
+  {
+    "id": 38,
+    "nome": "Fone de Ouvido Bluetooth - A9 PRO",
+    "categoria": "Fones de Ouvido",
+    "preco": 74.90,
+    "descricao": "Este fone de ouvido redefine a experiência sem fio ao integrar uma tela sensível ao toque colorida diretamente no estojo de carregamento. Com tecnologia de cancelamento de ruído ativo (ANC) e Bluetooth 5.3, ele permite controlar músicas, chamadas e até funções do celular sem precisar tirar o aparelho do bolso, oferecendo praticidade total e som de alta fidelidade.",
+    "detalhes": ["Estojo com Tela Touch Integrada: ermite controlar volume, trocar faixas, ajustar brilho e até configurar alarmes diretamente no visor do estojo!", "Cancelamento de Ruído Avançado (ANC)", "Customização Visual e de Áudio", "Conectividade e Controle Remoto", "Interface Multilíngue"],
+    "imagens": ["imagens/fonea9pro.jpg", "imagens/fonea9pro2.jpg", "imagens/fonea9pro3.jpg", "imagens/fonea9pro4.jpg"],
     "destaque": false
   }
 ]
