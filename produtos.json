@@ -273,7 +273,7 @@
     "id": 28,
     "nome": "Copo Térmico Quencher com canudo - 1.2L",
     "categoria": "Copos/Garrafas",
-    "preco": 54.90,
+    "preco": 59.90,
     "descricao": "Copo térmico de 1200ml em aço inox com isolamento de parede dupla, alça ergonômica e base cônica projetada para encaixe em porta-copos.",
     "detalhes": ["Alta Capacidade e Vedação", "Isolamento Térmico Avançado", "Acessórios de Qualidade Alimentar", "Ergonomia e Mobilidade"],
     "imagens": ["imagens/copo1200ml.jpg"],
@@ -338,5 +338,25 @@
     "detalhes": ["Tecnologia Shake-to-Chargel", "Design Ultra Slim", "Gestão de Energia Inteligente", "Monitoramento Intuitivo"],
     "imagens": ["imagens/powerbank1.jpg", "imagens/powerbank2.jpg"],
     "destaque": false
+  },
+  {
+    "id": 35,
+    "nome": "Compressor Calibrador Portátil",
+    "categoria": "Outros",
+    "preco": 99.90,
+    "descricao": "Este dispositivo portátil oferece total autonomia para calibrar pneus de carros, motos, bicicletas e infláveis sem depender de tomadas ou isqueiros.",
+    "detalhes": ["Sistema Inteligente de Pressão", "Bateria de Alta Performance", "Multifuncionalidade Digital", "Potência e Rapidez", "Kit Completo de Bicos"],
+    "imagens": ["imagens/compressor.jpg", "imagens/compressor2.jpg", "imagens/compressor3.jpg", "imagens/compressor4.jpg"],
+    "destaque": true
+  },
+  {
+    "id": 36,
+    "nome": "Umidificador de Ar Astronauta 220ml USB",
+    "categoria": "Outros",
+    "preco": 59.90,
+    "descricao": "Este dispositivo combina um design lúdico de cápsula espacial com alta eficiência na umidificação de ar. Compacto e totalmente vedado contra vazamentos, ele é ideal para mesas de trabalho, quartos ou até mesmo para uso dentro do veículo.",
+    "detalhes": ["Tecnologia de Atomização Fina", "Design de Segurança Anti-Vazamento", "Iluminação Atmosférica Colorida", "Portabilidade USB", "Capacidade e Autonomia: Tanque de 220ml com sistema de desligamento programado para 4 horas!"],
+    "imagens": ["imagens/umidificador.jpg", "imagens/umidificador2.jpg", "imagens/umidificador3.jpg"],
+    "destaque": true
   }
 ]
