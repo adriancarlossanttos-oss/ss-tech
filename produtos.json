@@ -201,7 +201,7 @@
   },
   {
     "id": 21,
-    "nome": "Caixinha de Som Bluetooth Kimiso Com Suporte Pra Celular.",
+    "nome": "Caixinha de Som Bluetooth Kimiso Com Suporte Pra Celular",
     "categoria": "Caixas de Som",
     "preco": 49.90,
     "descricao": "Caixa de som portátil wireless com alto-falante de 5W, iluminação LED e múltiplas entradas para reprodução de áudio de diversas fontes.",
@@ -276,7 +276,7 @@
     "preco": 59.90,
     "descricao": "Copo térmico de 1200ml em aço inox com isolamento de parede dupla, alça ergonômica e base cônica projetada para encaixe em porta-copos.",
     "detalhes": ["Alta Capacidade e Vedação", "Isolamento Térmico Avançado", "Acessórios de Qualidade Alimentar", "Ergonomia e Mobilidade"],
-    "imagens": ["imagens/copo1200ml.jpg"],
+    "imagens": ["imagens/copo1200ml.jpg", "imagens/copo1200ml2.jpg", "imagens/copo1200ml3.jpg", "imagens/copo1200ml4.jpg", "imagens/copo1200ml5.jpg", "imagens/copo1200ml6.jpg", "imagens/copo1200ml7.jpg"],
     "destaque": false
   },
   {
@@ -286,7 +286,7 @@
     "preco": 89.90,
     "descricao": "Projetor galáxia 5 em 1 com design de astronauta, que combina iluminação LED RGB, caixa de som Bluetooth, máquina de ruído branco e luminária noturna ajustável.",
     "detalhes": ["Experiência Visual Imersiva", "Multifuncionalidade Sonora", "Modo Ritmo Inteligente", "Controle Total e Praticidade"],
-    "imagens": ["imagens/astronauta.jpg"],
+    "imagens": ["imagens/astronauta.jpg", "imagens/astronauta2.jpg", "imagens/astronauta3.jpg", "imagens/astronauta4.jpg"],
     "destaque": false
   },
   {
