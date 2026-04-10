@@ -53,7 +53,7 @@
       "imagens/Cameraseg2.jpg"
     ],
     "destaque": false,
-    "ativo": true
+    "ativo": false,
   },
   {
     "id": 4,
@@ -203,7 +203,7 @@
       "imagens/QKZ6.jpg"
     ],
     "destaque": false,
-    "ativo": true
+    "ativo": false
   },
   {
     "id": 11,
@@ -224,7 +224,7 @@
       "imagens/V84.jpg"
     ],
     "destaque": false,
-    "ativo": true
+    "ativo": false
   },
   {
     "id": 12,
@@ -351,7 +351,7 @@
       "imagens/Fonei12.jpg"
     ],
     "destaque": false,
-    "ativo": true
+    "ativo": false
   },
   {
     "id": 19,
@@ -369,7 +369,7 @@
       "imagens/Fonex15.jpg"
     ],
     "destaque": false,
-    "ativo": true
+    "ativo": false
   },
   {
     "id": 20,
@@ -430,7 +430,7 @@
       "imagens/a6s4.jpg"
     ],
     "destaque": false,
-    "ativo": true
+    "ativo": false
   },
   {
     "id": 23,
@@ -524,7 +524,7 @@
       "imagens/canecachoop5.jpg"
     ],
     "destaque": false,
-    "ativo": true
+    "ativo": false
   },
   {
     "id": 28,
@@ -548,7 +548,7 @@
       "imagens/copo1200ml7.jpg"
     ],
     "destaque": false,
-    "ativo": true
+    "ativo": false
   },
   {
     "id": 29,
@@ -569,7 +569,7 @@
       "imagens/astronauta4.jpg"
     ],
     "destaque": false,
-    "ativo": true
+    "ativo": false
   },
   {
     "id": 30,
@@ -592,7 +592,7 @@
       "imagens/caixinhacomventosa6.jpg"
     ],
     "destaque": false,
-    "ativo": true
+    "ativo": false
   },
   {
     "id": 31,
@@ -614,7 +614,7 @@
       "imagens/fonem105.jpg"
     ],
     "destaque": false,
-    "ativo": true
+    "ativo": false
   },
   {
     "id": 32,
@@ -635,7 +635,7 @@
       "imagens/lapela4.jpg"
     ],
     "destaque": false,
-    "ativo": true
+    "ativo": false
   },
   {
     "id": 33,
@@ -697,7 +697,7 @@
       "imagens/compressor4.jpg"
     ],
     "destaque": true,
-    "ativo": true
+    "ativo": false
   },
   {
     "id": 36,
@@ -763,7 +763,7 @@
       "imagens/fonea9pro4.jpg"
     ],
     "destaque": false,
-    "ativo": true
+    "ativo": false
   },
   {
     "id": 39,
@@ -783,7 +783,7 @@
       "imagens/cabotipoc2.jpg"
     ],
     "destaque": false,
-    "ativo": true
+    "ativo": false
   },
   {
     "id": 40,
@@ -799,10 +799,16 @@
       "Alimentação Direta USB"
     ],
     "imagens": [
-      "imagens/cabotipoc.jpg",
-      "imagens/cabotipoc2.jpg"
+      "imagens/torre.jpg",
+      "imagens/torre2.jpg",
+      "imagens/torre3.jpg",
+      "imagens/torre4.jpg",
+      "imagens/torre5.jpg",
+      "imagens/torre6.jpg",
+      "imagens/torre7.jpg",
+      "imagens/torre8.jpg"
     ],
-    "destaque": false,
+    "destaque": true,
     "ativo": true
   },
   {
@@ -823,6 +829,6 @@
       "imagens/cabotipoc2.jpg"
     ],
     "destaque": false,
-    "ativo": true
+    "ativo": false
   }
 ]
