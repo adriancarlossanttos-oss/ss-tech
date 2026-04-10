@@ -8,7 +8,8 @@ IMAGENS_PASTA = os.path.join(app.static_folder, 'imagens')
 
 def carregar_produtos():
     with open('produtos.json', 'r', encoding='utf-8') as f:
-        return json.load(f)
+        dados = json.load(f)
+    return [p for p in dados if p.get('ativo', True)]
 
 @app.route('/')
 def index():
@@ -24,13 +25,12 @@ def api_produtos():
 
 @app.route('/api/produtos/<int:produto_id>')
 def api_produto(produto_id):
-    produtos = carregar_produtos()
+    produtos = carregar_odos()
     produto = next((p for p in produtos if p['id'] == produto_id), None)
     if produto:
         return jsonify(produto)
     return jsonify({'erro': 'Produto não encontrado'}), 404
 
-# ROTA CORRIGIDA: /imagens/... serve de static/imagens/
 @app.route('/imagens/<path:filename>')
 def produto_imagem(filename):
     return send_from_directory(IMAGENS_PASTA, filename)
