@@ -25,7 +25,7 @@ def api_produtos():
 
 @app.route('/api/produtos/<int:produto_id>')
 def api_produto(produto_id):
-    produtos = carregar_odos()
+    produtos = carregar_produtos()
     produto = next((p for p in produtos if p['id'] == produto_id), None)
     if produto:
         return jsonify(produto)
