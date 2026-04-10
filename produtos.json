@@ -828,7 +828,7 @@
       "Atenção: Cabos não suportam carregamento, apenas transferência de dados!"
     ],
     "imagens": [
-      "imagens/usbxtipoc.jpg"
+      "imagens/usb.jpg"
     ],
     "destaque": false,
     "ativo": true
@@ -847,7 +847,7 @@
       "Atenção: Cabos não suportam carregamento, apenas transferência de dados!"
     ],
     "imagens": [
-      "imagens/tipocxusb.jpg"
+      "imagens/tipo.jpg"
     ],
     "destaque": false,
     "ativo": true
