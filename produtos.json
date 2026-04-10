@@ -366,7 +366,10 @@
       "Gestão de Energia"
     ],
     "imagens": [
-      "imagens/Fonex15.jpg"
+      "imagens/x15.jpg",
+      "imagens/x152.jpg",
+      "imagens/x153.jpg".,
+      "imagens/x154.jpg"
     ],
     "destaque": false,
     "ativo": false
@@ -813,22 +816,40 @@
   },
   {
     "id": 41,
-    "nome": "Caixa multimídia PC / TV C/RGB 12W RMS 2 em 1",
-    "categoria": "Caixas de Som",
-    "preco": 99.9,
-    "descricao": "Este sistema de som multimídia une design moderno com iluminação LED RGB automática, ideal para transformar o áudio do seu setup de jogos, filmes ou trabalho. Com um design inovador 2 em 1, as caixas podem ser usadas separadas para som estéreo ou acopladas, oferecendo uma experiência sonora potente de 12W RMS, livre de ruídos e com total praticidade via conexão USB.",
+    "nome": "Adpatdor OTG Usb x Tipo C",
+    "categoria": "Cabos e Adaptadores",
+    "preco": 29.9,
+    "descricao": "Ideal para quem busca soluções práticas e confiáveis para conexões rápidas no dia a dia!",
     "detalhes": [
-      "Design Modular 2 em 1",
-      "Potência de 12W RMS",
-      "Iluminação LED RGB Gamer",
-      "Conectividade Completa",
-      "Alimentação Direta USB"
+      "Alta qualidade e durabilidade",
+      "Transferência de dados eficiente",
+      "Compatível com diversos modelos de smartphones",
+      "Ampla variedade de opções para atender sua necessidade",
+      "Atenção: Cabos não suportam carregamento, apenas transferência de dados!"
     ],
     "imagens": [
-      "imagens/cabotipoc.jpg",
-      "imagens/cabotipoc2.jpg"
+      "imagens/usbxtipoc.jpg"
     ],
     "destaque": false,
-    "ativo": false
-  }
+    "ativo": true
+  },
+   {
+    "id": 41,
+    "nome": "Adpatdor OTG Tipo C x USB",
+    "categoria": "Cabos e Adaptadores",
+    "preco": 29.9,
+    "descricao": "Ideal para quem busca soluções práticas e confiáveis para conexões rápidas no dia a dia!",
+    "detalhes": [
+      "Alta qualidade e durabilidade",
+      "Transferência de dados eficiente",
+      "Compatível com diversos modelos de smartphones",
+      "Ampla variedade de opções para atender sua necessidade",
+      "Atenção: Cabos não suportam carregamento, apenas transferência de dados!"
+    ],
+    "imagens": [
+      "imagens/tipocxusb.jpg"
+    ],
+    "destaque": false,
+    "ativo": true,
+     }
 ]
