@@ -831,10 +831,10 @@
       "imagens/usb.jpg"
     ],
     "destaque": false,
-    "ativo": true
+    "ativo": false
   },
    {
-    "id": 41,
+    "id": 42,
     "nome": "Adpatdor OTG Tipo C x USB",
     "categoria": "Cabos e Adaptadores",
     "preco": 29.9,
@@ -850,6 +850,29 @@
       "imagens/tipo.jpg"
     ],
     "destaque": false,
-    "ativo": true
+    "ativo": false
+     },
+   {
+    "id": 43,
+    "nome": "Placa De Som Adaptador Usb x P3 Fone/Microfone/Pc/Notebook",
+    "categoria": "Cabos e Adaptadores",
+    "preco": 34.90,
+    "descricao": "Este adaptador de áudio 2 em 1 oferece uma solução premium para conectar fones de ouvido e microfones via porta USB. Com acabamento reforçado em liga de alumínio e design compacto, ele garante uma transmissão de som estável e cristalina, sendo a escolha ideal para quem busca converter sinais digitais em analógicos com máxima fidelidade e durabilidade!",
+    "detalhes": [
+      "Conversão de Alta Fidelidade",
+      "Material Premium e Reforçado",
+      "Compatibilidade Universal de Fones",
+      "Portabilidade Extrema",
+      "Foco em Headsets (P3): Projetado especificamente para ativar as funções de áudio e microfone em plugs P3 (com 3 anéis no conector), ideal para gamers e reuniões."
+    ],
+    "imagens": [
+      "imagens/usbp2.jpg",
+      "imagens/usbp22.jpg",
+      "imagens/usbp23.jpg",
+      "imagens/usbp24.jpg",
+      "imagens/usbp25.jpg"
+    ],
+    "destaque": false,
+    "ativo": false
      }
 ]
