@@ -915,7 +915,7 @@
       "imagens/mouse4.jpg"
     ],
     "destaque": false,
-    "ativo": true
+    "ativo": false
   },
    {
     "id": 46,
@@ -938,7 +938,7 @@
       "imagens/lixeira5.jpg"
     ],
     "destaque": false,
-    "ativo": true
+    "ativo": false
   },
   {
     "id": 47,
@@ -960,6 +960,6 @@
       "imagens/xtran4.jpg"
     ],
     "destaque": false,
-    "ativo": true
+    "ativo": false
   }
 ]
