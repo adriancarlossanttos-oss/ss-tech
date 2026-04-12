@@ -92,7 +92,7 @@
       "imagens/Lenovo3.jpg"
     ],
     "destaque": false,
-    "ativo": true
+    "ativo": false
   },
   {
     "id": 6,
@@ -790,7 +790,7 @@
   },
   {
     "id": 40,
-    "nome": "Caixa multimídia PC / TV C/RGB 12W RMS 2 em 1",
+    "nome": "Caixa multimídia KNUP PC / TV C/RGB 12W RMS 2 em 1",
     "categoria": "Caixas de Som",
     "preco": 99.9,
     "descricao": "Este sistema de som multimídia une design moderno com iluminação LED RGB automática, ideal para transformar o áudio do seu setup de jogos, filmes ou trabalho. Com um design inovador 2 em 1, as caixas podem ser usadas separadas para som estéreo ou acopladas, oferecendo uma experiência sonora potente de 12W RMS, livre de ruídos e com total praticidade via conexão USB.",
@@ -874,5 +874,26 @@
     ],
     "destaque": false,
     "ativo": false
-     }
+     },
+  {
+    "id": 44,
+    "nome": "Fone de Ouvido Bluetooth Air Pro 6 Tws",
+    "categoria": "Fones de Ouvido",
+    "preco": 44.9,
+    "descricao": "Som estéreo premium com Bluetooth 5.1 e design ergonômico ultraleve para máximo conforto e estabilidade.",
+    "detalhes": [
+      "Conectividade Avançada",
+      "Áudio de Alta Fidelidade",
+      "Design Ergonômico",
+      "Ampla Compatibilidade"
+    ],
+    "imagens": [
+      "imagens/airpro.jpg",
+      "imagens/airpro2.jpg",
+      "imagens/airpro3.jpg",
+      "imagens/airpro4.jpg"
+    ],
+    "destaque": false,
+    "ativo": true
+  }
 ]
