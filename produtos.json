@@ -961,5 +961,25 @@
     ],
     "destaque": false,
     "ativo": false
+  },
+  {
+    "id": 48,
+    "nome": "Cabi HDMI 2 metros - 4K",
+    "categoria": "Cabos e Adaptadores",
+    "preco": 39.9,
+      "descricao": "Eleve a experiência de som e imagem da sua TV, Monitor ou Console com o Cabo HDMI Premium. Desenvolvido para oferecer máxima condutividade e proteção contra ruídos, ele é a escolha ideal para quem não abre mão de qualidade e durabilidade.",
+    "detalhes": [
+      "Imagens Impecáveis",
+      "Conexão Blindada",
+      "Ultra Resistência",
+      "Versatilidade Total"
+    ],
+    "imagens": [
+      "imagens/cabohdmi.jpg",
+      "imagens/cabohdmi2.jpg",
+      "imagens/cabohdmi3.jpg"
+    ],
+    "destaque": false,
+    "ativo": true
   }
 ]
