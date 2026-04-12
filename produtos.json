@@ -409,7 +409,7 @@
       "imagens/kimiso2.jpg",
       "imagens/kimiso3.jpg",
       "imagens/kimiso4.jpg",
-      "imagens/kimiso.jpg5"
+      "imagens/kimiso5.jpg"
     ],
     "destaque": false,
     "ativo": true
@@ -936,6 +936,28 @@
       "imagens/lixeira3.jpg",
       "imagens/lixeira4.jpg",
       "imagens/lixeira5.jpg"
+    ],
+    "destaque": false,
+    "ativo": true
+  },
+  {
+    "id": 47,
+    "nome": "Caixa de Som Bluetooth Xtran CS-29 50w Led/Rgb/Rádio/Fm/Usb",
+    "categoria": "Caixas de Som",
+    "preco": 139.9,
+      "descricao": "A Caixa de Som Bluetooth CS-29 é a solução definitiva para quem busca um som potente e cristalino com o melhor custo-benefício. Equipada com 50W de potência e tecnologia TWS, ela permite uma experiência de áudio imersiva com graves marcantes. Seu design moderno conta com iluminação LED RGB dinâmica, criando a atmosfera perfeita para festas, encontros ou lazer, sempre com uma conexão Bluetooth estável e rápida.",
+    "detalhes": [
+      "Alta Potência de 50W",
+      "Tecnologia TWS (True Wireless Stereo): Permite conectar duas caixas CS-29 simultaneamente, dobrando a potência sonora e criando um sistema de som estéreo real",
+      "Multiconectividade",
+      "Iluminação LED RGB Integrada",
+      "Compatibilidade Bivolt"
+    ],
+    "imagens": [
+      "imagens/xtran.jpg",
+      "imagens/xtran2.jpg",
+      "imagens/xtran3.jpg",
+      "imagens/xtran4.jpg"
     ],
     "destaque": false,
     "ativo": true
