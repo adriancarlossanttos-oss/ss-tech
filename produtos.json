@@ -895,5 +895,49 @@
     ],
     "destaque": false,
     "ativo": true
+  },
+   {
+    "id": 45,
+    "nome": "Mouse Gamer KP-V4 LED 7 Cores 3 niveis DPI (ATÉ 2400)",
+    "categoria": "PC/Periféricos",
+    "preco": 49.9,
+    "descricao": "O Mouse Gamer KP-V4 foi projetado para quem busca equilíbrio entre performance e custo-benefício. Com um design ergonômico que reduz o cansaço em sessões prolongadas, ele oferece agilidade com seus 6 botões e um visual moderno graças ao ciclo de iluminação em 7 cores LED. É a escolha ideal para transformar seu setup, garantindo movimentos precisos tanto em jogos quanto em tarefas profissionais.",
+    "detalhes": [
+      "Controle de Sensibilidade",
+      "Iluminação Dinâmica: Sistema de LED com 7 cores.",
+      "Ergonomia e Conforto",
+      "Navegação Agilizada"
+    ],
+    "imagens": [
+      "imagens/mouse.jpg",
+      "imagens/mouse2.jpg",
+      "imagens/mouse3.jpg",
+      "imagens/mouse4.jpg"
+    ],
+    "destaque": false,
+    "ativo": true
+  },
+   {
+    "id": 46,
+    "nome": "Lixeira Inteligente 12L Com Sensor Automático",
+    "categoria": "Outros",
+    "preco": 99.9,
+    "descricao": "Transforme a forma como você descarta seus resíduos com esta lixeira inteligente de 12L. Equipada com um sensor de aproximação de alta precisão, ela elimina a necessidade de contato manual, garantindo um ambiente muito mais higiênico e moderno. Seu design compacto e elegante se adapta perfeitamente a qualquer espaço, unindo praticidade extrema com um baixo consumo de energia.",
+    "detalhes": [
+      "Abertura Automática por Sensor",
+      "Fechamento Inteligente Temporizado",
+      "Design Compacto de 12 Litros",
+      "Alta Autonomia de Energia",
+      "Painel Sensível ao Toque"
+    ],
+    "imagens": [
+      "imagens/lixeira.jpg",
+      "imagens/lixeira2.jpg",
+      "imagens/lixeira3.jpg",
+      "imagens/lixeira4.jpg",
+      "imagens/lixeira5.jpg"
+    ],
+    "destaque": false,
+    "ativo": true
   }
 ]
