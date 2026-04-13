@@ -53,7 +53,7 @@
       "imagens/Cameraseg2.jpg"
     ],
     "destaque": false,
-    "ativo": false
+    "ativo": true
   },
   {
     "id": 4,
@@ -484,7 +484,11 @@
       "Construção Ultra Resistente"
     ],
     "imagens": [
-      "imagens/Kitgarrafa.jpg"
+      "imagens/Kitgarrafa.jpg",
+      "imagens/kitgarrafa2.jpg",
+      "imagens/kitgarrafa3.jpg",
+      "imagens/kitgarrafa4.jpg",
+      "imagens/kitgarrafa5.jpg"
     ],
     "destaque": false,
     "ativo": true
@@ -750,7 +754,7 @@
     "id": 38,
     "nome": "Fone de Ouvido Bluetooth - A9 PRO",
     "categoria": "Fones de Ouvido",
-    "preco": 74.9,
+    "preco": 79.9,
     "descricao": "Este fone de ouvido redefine a experiência sem fio ao integrar uma tela sensível ao toque colorida diretamente no estojo de carregamento. Com tecnologia de cancelamento de ruído ativo (ANC) e Bluetooth 5.3, ele permite controlar músicas, chamadas e até funções do celular sem precisar tirar o aparelho do bolso, oferecendo praticidade total e som de alta fidelidade.",
     "detalhes": [
       "Estojo com Tela Touch Integrada: Permite controlar volume, trocar faixas, ajustar brilho e até configurar alarmes diretamente no visor do estojo!",
@@ -766,7 +770,7 @@
       "imagens/fonea9pro4.jpg"
     ],
     "destaque": false,
-    "ativo": false
+    "ativo": true
   },
   {
     "id": 39,
@@ -831,7 +835,7 @@
       "imagens/usb.jpg"
     ],
     "destaque": false,
-    "ativo": false
+    "ativo": true
   },
    {
     "id": 42,
