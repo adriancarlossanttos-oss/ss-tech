@@ -881,7 +881,7 @@
      },
   {
     "id": 44,
-    "nome": "Fone de Ouvido Bluetooth Air Pro 6 Tws",
+      "nome": "Fone de Ouvido Bluetooth Air Pro 6 Tws",
     "categoria": "Fones de Ouvido",
     "preco": 44.9,
     "descricao": "Som estéreo premium com Bluetooth 5.1 e design ergonômico ultraleve para máximo conforto e estabilidade.",
@@ -982,6 +982,28 @@
       "imagens/cabohdmi.jpg",
       "imagens/cabohdmi2.jpg",
       "imagens/cabohdmi3.jpg"
+    ],
+    "destaque": false,
+    "ativo": true
+  },
+  {
+    "id": 49,
+    "nome": "Mini Caixa de Som Bluetooth Portátil Metal",
+    "categoria": "Caixas de Som",
+    "preco": 29.9,
+    "detalhes": [
+      "descricao":, "Descubra o equilíbrio perfeito entre elegância e potência. Esta caixa de som bluetooth ultra compacta entrega uma qualidade sonora surpreendente com um acabamento metálico refinado, sendo o acessório ideal para quem busca estilo e performance em um só produto.",
+      "Ultra Potência",
+      "Design de Luxo",
+      "Multifuncional",
+      "Máxima Portabilidade"
+    ],
+    "imagens": [
+      "imagens/minicaixa0.jpg",
+      "imagens/minicaixa.jpg",
+      "imagens/minicaixa2.jpg",
+      "imagens/minicaixa3.jpg",
+      "imagens/minicaixa4.jpg"
     ],
     "destaque": false,
     "ativo": true
