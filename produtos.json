@@ -991,8 +991,8 @@
     "nome": "Mini Caixa de Som Bluetooth Portátil Metal",
     "categoria": "Caixas de Som",
     "preco": 29.9,
+      "descricao": "Descubra o equilíbrio perfeito entre elegância e potência. Esta caixa de som bluetooth ultra compacta entrega uma qualidade sonora surpreendente com um acabamento metálico refinado, sendo o acessório ideal para quem busca estilo e performance em um só produto.",
     "detalhes": [
-      "descricao":, "Descubra o equilíbrio perfeito entre elegância e potência. Esta caixa de som bluetooth ultra compacta entrega uma qualidade sonora surpreendente com um acabamento metálico refinado, sendo o acessório ideal para quem busca estilo e performance em um só produto.",
       "Ultra Potência",
       "Design de Luxo",
       "Multifuncional",
@@ -1006,6 +1006,29 @@
       "imagens/minicaixa4.jpg"
     ],
     "destaque": false,
-    "ativo": true
+    "ativo": false
+  },
+  {
+    "id": 50,
+    "nome": "Fone de Ouvido Bluetooth 895B",
+    "categoria": "Fones de Ouvido",
+    "preco": 44.9,
+      "descricao": "Experimente a liberdade sem fios com a mais nova geração de fones TWS. Com um design ergonômico e acabamento sofisticado, este modelo combina alta performance sonora com um visor digital inteligente para você nunca ficar na mão.",
+    "detalhes": [
+      "Tecnologia Bluetooth 5.4",
+      "Som Surround 9D & Hi-Fi",
+      "Visor LED Inteligente",
+      "Cancelamento de Ruído CVC 8.0"
+    ],
+    "imagens": [
+      "imagens/fone895b.jpg",
+      "imagens/fone895b2.jpg",
+      "imagens/fone895b3.jpg",
+      "imagens/fone895b4.jpg",
+      "imagens/fone895b5.jpg",
+      "imagens/fone895b6.jpg"
+    ],
+    "destaque": false,
+    "ativo": false
   }
 ]
