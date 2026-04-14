@@ -203,7 +203,7 @@
       "imagens/QKZ6.jpg"
     ],
     "destaque": false,
-    "ativo": false
+    "ativo": true
   },
   {
     "id": 11,
@@ -877,7 +877,7 @@
       "imagens/usbp25.jpg"
     ],
     "destaque": false,
-    "ativo": false
+    "ativo": true
      },
   {
     "id": 44,
