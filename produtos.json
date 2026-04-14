@@ -964,7 +964,7 @@
       "imagens/xtran4.jpg"
     ],
     "destaque": false,
-    "ativo": false
+    "ativo": true
   },
   {
     "id": 48,
@@ -1006,7 +1006,7 @@
       "imagens/minicaixa4.jpg"
     ],
     "destaque": false,
-    "ativo": false
+    "ativo": true
   },
   {
     "id": 50,
@@ -1029,6 +1029,6 @@
       "imagens/fone895b6.jpg"
     ],
     "destaque": false,
-    "ativo": false
+    "ativo": true
   }
 ]
