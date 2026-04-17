@@ -433,7 +433,7 @@
       "imagens/a6s4.jpg"
     ],
     "destaque": false,
-    "ativo": false
+    "ativo": true
   },
   {
     "id": 23,
@@ -531,7 +531,7 @@
       "imagens/canecachoop5.jpg"
     ],
     "destaque": false,
-    "ativo": false
+    "ativo": true
   },
   {
     "id": 28,
@@ -555,7 +555,7 @@
       "imagens/copo1200ml7.jpg"
     ],
     "destaque": false,
-    "ativo": false
+    "ativo": true
   },
   {
     "id": 29,
@@ -576,7 +576,7 @@
       "imagens/astronauta4.jpg"
     ],
     "destaque": false,
-    "ativo": false
+    "ativo": true
   },
   {
     "id": 30,
@@ -599,7 +599,7 @@
       "imagens/caixinhacomventosa6.jpg"
     ],
     "destaque": false,
-    "ativo": false
+    "ativo": true
   },
   {
     "id": 31,
@@ -621,7 +621,7 @@
       "imagens/fonem105.jpg"
     ],
     "destaque": false,
-    "ativo": false
+    "ativo": true
   },
   {
     "id": 32,
@@ -642,7 +642,7 @@
       "imagens/lapela4.jpg"
     ],
     "destaque": false,
-    "ativo": false
+    "ativo": true
   },
   {
     "id": 33,
@@ -704,7 +704,7 @@
       "imagens/compressor4.jpg"
     ],
     "destaque": true,
-    "ativo": false
+    "ativo": true
   },
   {
     "id": 36,
