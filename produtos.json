@@ -468,7 +468,7 @@
     "imagens": [
       "imagens/Fonee6s.jpg"
     ],
-    "destaque": false,
+    "destaque": true,
     "ativo": true
   },
   {
@@ -754,7 +754,7 @@
     "id": 38,
     "nome": "Fone de Ouvido Bluetooth - A9 PRO",
     "categoria": "Fones de Ouvido",
-    "preco": 79.9,
+    "preco": 89.9,
     "descricao": "Este fone de ouvido redefine a experiência sem fio ao integrar uma tela sensível ao toque colorida diretamente no estojo de carregamento. Com tecnologia de cancelamento de ruído ativo (ANC) e Bluetooth 5.3, ele permite controlar músicas, chamadas e até funções do celular sem precisar tirar o aparelho do bolso, oferecendo praticidade total e som de alta fidelidade.",
     "detalhes": [
       "Estojo com Tela Touch Integrada: Permite controlar volume, trocar faixas, ajustar brilho e até configurar alarmes diretamente no visor do estojo!",
