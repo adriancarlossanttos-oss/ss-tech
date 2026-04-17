@@ -580,7 +580,7 @@
   },
   {
     "id": 30,
-    "nome": "Caixinha de Som Bluetooth Com Ventosa À Prova Dágua",
+    "nome": "Caixinha de Som Bluetooth Com Ventosa Resistente à água",
     "categoria": "Caixas de Som",
     "preco": 29.9,
     "descricao": "Caixa de som Bluetooth compacta com resistência à água e sistema de fixação por ventosa, projetada especificamente para uso em ambientes úmidos como banheiros, piscinas e praias.",
@@ -898,7 +898,7 @@
       "imagens/airpro4.jpg"
     ],
     "destaque": false,
-    "ativo": true
+    "ativo": false
   },
    {
     "id": 45,
@@ -919,7 +919,7 @@
       "imagens/mouse4.jpg"
     ],
     "destaque": false,
-    "ativo": false
+    "ativo": true
   },
    {
     "id": 46,
@@ -942,7 +942,7 @@
       "imagens/lixeira5.jpg"
     ],
     "destaque": false,
-    "ativo": false
+    "ativo": true
   },
   {
     "id": 47,
@@ -964,7 +964,7 @@
       "imagens/xtran4.jpg"
     ],
     "destaque": false,
-    "ativo": false
+    "ativo": true
   },
   {
     "id": 48,
