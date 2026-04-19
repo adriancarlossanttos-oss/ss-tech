@@ -621,7 +621,7 @@
       "imagens/fonem105.jpg"
     ],
     "destaque": false,
-    "ativo": true
+    "ativo": false
   },
   {
     "id": 32,
@@ -942,7 +942,7 @@
       "imagens/lixeira5.jpg"
     ],
     "destaque": false,
-    "ativo": true
+    "ativo": false
   },
   {
     "id": 47,
