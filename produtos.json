@@ -1076,7 +1076,7 @@
       "imagens/kapboom7.jpg"
     ],
     "destaque": false,
-    "ativo": true
+    "ativo": false
   },
   {
     "id": 53,
@@ -1098,6 +1098,51 @@
       "imagens/inova5.jpg",
       "imagens/inova6.jpg",
       "imagens/inova7.jpg"
+    ],
+    "destaque": true,
+    "ativo": false
+  },
+  {
+    "id": 54,
+    "nome": "Carregador Portátil - 50000Mah",
+    "categoria": "Carregadores",
+    "preco": 219.9,
+    "descricao": "O carregador portátil definitivo para quem não pode ficar desconectado. Com uma capacidade massiva de 50.000mAh e tecnologia de carregamento rápido PD, este dispositivo é capaz de manter toda a sua família ou equipe com energia por dias em viagens, acampamentos ou emergências.",
+    "detalhes": [
+      "Capacidade Massiva (50.000mAh): O maior da categoria. Energia suficiente para carregar um smartphone comum até 12-15 vezes com uma única carga da base.",
+      "Carregamento Turbo 22,5W PD",
+      "Saídas Múltiplas",
+      "Inteligência de Carga"
+    ],
+    "imagens": [
+      "imagens/50000111.jpg",
+      "imagens/500001.jpg",
+      "imagens/500002.jpg",
+      "imagens/500003.jpg",
+      "imagens/500004.jpg",
+      "imagens/500005.jpg",
+      "imagens/500006.jpg"
+    ],
+    "destaque": true,
+    "ativo": true
+  },
+  {
+    "id": 55,
+    "nome": "Carregador Portátil Inova - 10000Mah",
+    "categoria": "Carregadores",
+    "preco": 119.9,
+    "descricao": "O carregador portátil definitivo para quem não pode parar. Com 10.000mAh de capacidade real, esta Power Bank combina potência, segurança e conveniência com seus cabos integrados, sendo ideal para longas jornadas e uso diário.",
+    "detalhes": [
+      "Alta capacidade",
+      "Solução 3 em 1 (Cabos Integrados)",
+      "Segurança Homologada ANATEL",
+      "Painel Digital LED"
+    ],
+    "imagens": [
+      "imagens/100001.jpg",
+      "imagens/inova2.jpg",
+      "imagens/inova3.jpg",
+      "imagens/inova4.jpg"
     ],
     "destaque": true,
     "ativo": true
