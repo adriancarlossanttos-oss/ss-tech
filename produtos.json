@@ -1124,7 +1124,7 @@
       "imagens/500006.jpg"
     ],
     "destaque": true,
-    "ativo": true
+    "ativo": false
   },
   {
     "id": 55,
@@ -1145,6 +1145,6 @@
       "imagens/inova4.jpg"
     ],
     "destaque": true,
-    "ativo": true
+    "ativo": false
   }
 ]
