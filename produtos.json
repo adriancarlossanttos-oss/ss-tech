@@ -1076,6 +1076,30 @@
       "imagens/kapboom7.jpg"
     ],
     "destaque": false,
-    "ativo": false
+    "ativo": true
+  },
+  {
+    "id": 53,
+    "nome": "Carregador Portátil Inova - 20000Mah",
+    "categoria": "Carregadores",
+    "preco": 139.9,
+    "descricao": "O carregador portátil definitivo para quem não pode parar. Com 20.000mAh de capacidade real, esta Power Bank combina potência, segurança e conveniência com seus cabos integrados, sendo ideal para longas jornadas e uso diário.",
+    "detalhes": [
+      "Alta Capacidade (20.000mAh): Energia suficiente para múltiplas recargas no seu smartphone ao longo do dia",
+      "Solução 3 em 1 (Cabos Integrados)",
+      "Segurança Homologada ANATEL",
+      "Painel Digital LED"
+    ],
+    "imagens": [
+      "imagens/inova1.jpg",
+      "imagens/inova2.jpg",
+      "imagens/inova3.jpg",
+      "imagens/inova4.jpg",
+      "imagens/inova5.jpg",
+      "imagens/inova6.jpg",
+      "imagens/inova7.jpg"
+    ],
+    "destaque": true,
+    "ativo": true
   }
 ]
