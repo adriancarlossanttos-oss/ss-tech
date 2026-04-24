@@ -53,7 +53,7 @@
       "imagens/Cameraseg2.jpg"
     ],
     "destaque": false,
-    "ativo": true
+    "ativo": false
   },
   {
     "id": 4,
@@ -1027,6 +1027,53 @@
       "imagens/fone895b4.jpg",
       "imagens/fone895b5.jpg",
       "imagens/fone895b6.jpg"
+    ],
+    "destaque": false,
+    "ativo": false
+  },
+  {
+    "id": 51,
+    "nome": "Fone de Ouvido Bluetooth Headset P2961",
+    "categoria": "Fones de Ouvido",
+    "preco": 84.9,
+      "descricao": "Eleve o nível do seu áudio com o P2961. Projetado para quem busca versatilidade, este headphone entrega um som de alta fidelidade para músicas e uma performance de baixa latência para jogos, tudo com o máximo conforto para horas de uso.",
+    "detalhes": [
+      "Áudio Hi-Fi Premium",
+      "Baixa Latência (45ms)",
+      "Conexão Bluetooth 5.3",
+      "Redução de Ruído Ativa"
+    ],
+    "imagens": [
+      "imagens/p2961.jpg",
+      "imagens/p29612.jpg",
+      "imagens/p29613.jpg",
+      "imagens/p29614.jpg",
+      "imagens/p29615.jpg",
+      "imagens/p29616.jpg"
+    ],
+    "destaque": false,
+    "ativo": true
+  },
+  {
+    "id": 52,
+    "nome": "Fone de Ouvido Bluetooth Headset KAPBOOM KA933",
+    "categoria": "Fones de Ouvido",
+    "preco": 79.9,
+      "descricao": "O KAPBOM KA-933 é a solução definitiva para quem não quer ficar limitado. Com quatro modos de reprodução e funcionamento híbrido (com ou sem fio), ele se adapta desde a jogatina no PC até a corrida matinal sem celular. Um fone robusto, dobrável e com tecnologia de graves reforçados.",
+    "detalhes": [
+      "Conectividade 4 em 1: Ouça via Bluetooth 5.0, Cartão Micro SD (MP3), Rádio FM integrado ou via Cabo Auxiliar P2 (funciona mesmo se a bateria acabar).",
+      "Tecnologia Extra Bass",
+      "Sistema Hands-Free",
+      "Design Ergonômico e Retrátil"
+    ],
+    "imagens": [
+      "imagens/kapboom1.jpg",
+      "imagens/kapboom.jpg",
+      "imagens/kapboom3.jpg",
+      "imagens/kapboom4.jpg",
+      "imagens/kapboom5.jpg",
+      "imagens/kapboom6.jpg",
+      "imagens/kapboom7.jpg"
     ],
     "destaque": false,
     "ativo": false
