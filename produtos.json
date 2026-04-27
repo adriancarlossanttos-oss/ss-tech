@@ -53,7 +53,7 @@
       "imagens/Cameraseg2.jpg"
     ],
     "destaque": false,
-    "ativo": false
+    "ativo": true
   },
   {
     "id": 4,
@@ -372,7 +372,7 @@
       "imagens/x154.jpg"
     ],
     "destaque": false,
-    "ativo": false
+    "ativo": true
   },
   {
     "id": 20,
@@ -898,7 +898,7 @@
       "imagens/airpro4.jpg"
     ],
     "destaque": false,
-    "ativo": false
+    "ativo": true
   },
    {
     "id": 45,
@@ -1029,7 +1029,7 @@
       "imagens/fone895b6.jpg"
     ],
     "destaque": false,
-    "ativo": false
+    "ativo": true
   },
   {
     "id": 51,
@@ -1076,7 +1076,7 @@
       "imagens/kapboom7.jpg"
     ],
     "destaque": false,
-    "ativo": false
+    "ativo": true
   },
   {
     "id": 53,
@@ -1100,7 +1100,7 @@
       "imagens/inova7.jpg"
     ],
     "destaque": true,
-    "ativo": false
+    "ativo": true
   },
   {
     "id": 54,
