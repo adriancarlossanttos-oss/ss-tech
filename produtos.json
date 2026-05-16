@@ -704,7 +704,7 @@
       "imagens/compressor4.jpg"
     ],
     "destaque": true,
-    "ativo": true
+    "ativo": false
   },
   {
     "id": 36,
@@ -770,7 +770,7 @@
       "imagens/fonea9pro4.jpg"
     ],
     "destaque": false,
-    "ativo": true
+    "ativo": false
   },
   {
     "id": 39,
@@ -816,7 +816,7 @@
       "imagens/torre8.jpg"
     ],
     "destaque": true,
-    "ativo": true
+    "ativo": false
   },
   {
     "id": 41,
@@ -964,7 +964,7 @@
       "imagens/xtran4.jpg"
     ],
     "destaque": false,
-    "ativo": true
+    "ativo": false
   },
   {
     "id": 48,
